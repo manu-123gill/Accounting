@@ -1,3 +1,5 @@
-## Accounting Frature
+# Accounting Feature
+## Payables
 ![image](payables.png)
+## Receivables
 ![image](Receivables.png)
